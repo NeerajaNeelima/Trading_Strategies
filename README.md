@@ -10,11 +10,16 @@ This repository contains a Jupyter Notebook that can be run directly in **Google
 
 You can run this notebook in Google Colab without installing anything locally. Follow these steps:
 
+<!-- 1. **Open in Google Colab**  
+   Click the **Open in Colab** badge below to open the notebook directly:
+
+   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/NeerajaNeelima/Trading_Strategies/blob/main/Trading_Strategies.ipynb) -->
+
 1. **Open in Google Colab**  
    Click the **Open in Colab** badge below to open the notebook directly:
 
-   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/NeerajaNeelima/Trading_Strategies/blob/main/Trading_Strategies.ipynb)
-   
+   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeerajaNeelima/Trading_Strategies/blob/main/Trading_Strategies.ipynb)
+
 2. **Run the Notebook**  
    - Click **Runtime → Run all** to execute all cells sequentially.  
    - Or run individual cells using the **play button** on the left of each cell.
